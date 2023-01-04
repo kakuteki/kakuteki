@@ -6,7 +6,7 @@
 
 ![](https://raw.githubusercontent.com/kakuteki/profile/93b05fe5a004a269ca46af9ef94d142ad0b95303/github_stats.svg?token=AOWKWKKRFNHZVOUTXQWGVETDWTYX2)
 
-https://spotify-recently-played-readme.vercel.app/api?user=uow1hh8wezc8rlbvbn0040d4d
+![](https://spotify-recently-played-readme.vercel.app/api?user=uow1hh8wezc8rlbvbn0040d4d)
 
 <!--
 **kakuteki/kakuteki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
