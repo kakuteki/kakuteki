@@ -1,4 +1,7 @@
-### Hi there 👋
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kakuteki&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kakuteki&theme=2077)
 
 <!--
 **kakuteki/kakuteki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
