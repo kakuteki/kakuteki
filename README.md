@@ -3,7 +3,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kakuteki&theme=2077)
 
-https://raw.githubusercontent.com/kakuteki/profile/93b05fe5a004a269ca46af9ef94d142ad0b95303/github_stats.svg?token=AOWKWKKRFNHZVOUTXQWGVETDWTYX2
+![](https://raw.githubusercontent.com/kakuteki/profile/93b05fe5a004a269ca46af9ef94d142ad0b95303/github_stats.svg?token=AOWKWKKRFNHZVOUTXQWGVETDWTYX2)
+
 <!--
 **kakuteki/kakuteki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
