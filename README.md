@@ -16,23 +16,6 @@
 
 ---
 
-## Kaggle Stats
-
-<p align="center">
-  <a href="https://www.kaggle.com/kakuteki">
-    <img src="kaggle-plates/Competitions.svg" alt="Kaggle Competition" />
-    <img src="kaggle-plates/Datasets.svg" alt="Kaggle Dataset" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.kaggle.com/kakuteki">
-    <img src="kaggle-plates/Notebooks.svg" alt="Kaggle Notebook" />
-    <img src="kaggle-plates/Discussions.svg" alt="Kaggle Discussion" />
-  </a>
-</p>
-
----
-
 ## GitHub Stats
 
 <p align="center">
@@ -67,7 +50,7 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=white)
 
 ### Tools & Platforms
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
