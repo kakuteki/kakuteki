@@ -2,8 +2,8 @@ name: Update Kaggle Stats
 
 on:
   schedule:
-    - cron: "0 0 * * 0"  # Every Sunday at midnight UTC
-  workflow_dispatch:  # Manual trigger
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
 
 env:
   KAGGLE_USERNAME: kakuteki
@@ -13,38 +13,36 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-      
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      
+
       - name: Install dependencies
         run: |
           pip install playwright
           playwright install chromium
           playwright install-deps
-      
+
       - name: Run Kaggle scraper
         run: python scripts/scrape_kaggle.py
         env:
-          KAGGLE_USERNAME: ${{ env.KAGGLE_USERNAME }}
-      
+          KAGGLE_USERNAME: kakuteki
+
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git pull --rebase origin main
           git add kaggle-badges/
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "Update Kaggle stats badges"
+            git pull --rebase origin main || true
             git push
           fi
