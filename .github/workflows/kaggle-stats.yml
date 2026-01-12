@@ -5,9 +5,6 @@ on:
     - cron: "0 0 * * 0"
   workflow_dispatch:
 
-env:
-  KAGGLE_USERNAME: kakuteki
-
 jobs:
   update-kaggle-stats:
     runs-on: ubuntu-latest
@@ -23,24 +20,8 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
-        run: |
-          pip install playwright
-          playwright install chromium
-          playwright install-deps
-          sudo apt-get update
-          sudo apt-get install -y xvfb
-
-      - name: Start virtual display
-        run: |
-          Xvfb :99 -screen 0 1920x1080x24 &
-          sleep 3
-
-      - name: Run Kaggle scraper with virtual display
+      - name: Generate Kaggle badges
         run: python scripts/scrape_kaggle.py
-        env:
-          KAGGLE_USERNAME: kakuteki
-          DISPLAY: :99
 
       - name: Commit and push changes
         run: |
