@@ -4,6 +4,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-@samonroof1-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/samonroof1)
 [![Website](https://img.shields.io/badge/Website-kakuteki.net-00A98F?style=flat&logo=google-chrome&logoColor=white)](http://kakuteki.net)
+[![Kaggle](https://img.shields.io/badge/Kaggle-kakuteki-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/kakuteki)
 
 ---
 
@@ -12,6 +13,19 @@
 - Working at **CIT (Chiba Institute of Technology)**, **RT Company**, **Samurai AI Inc.**
 - Based in Tsudanuma, Chiba, Japan
 - Passionate about **Robotics**, **ROS2**, and **Machine Learning**
+
+---
+
+## Kaggle Stats
+
+<p align="center">
+  <a href="https://www.kaggle.com/kakuteki">
+    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kakuteki/competition/light" alt="Kaggle Competition" />
+    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kakuteki/dataset/light" alt="Kaggle Dataset" />
+    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kakuteki/notebook/light" alt="Kaggle Notebook" />
+    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kakuteki/discussion/light" alt="Kaggle Discussion" />
+  </a>
+</p>
 
 ---
 
