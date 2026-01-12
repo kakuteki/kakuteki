@@ -20,10 +20,14 @@
 
 <p align="center">
   <a href="https://www.kaggle.com/kakuteki">
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kakuteki/competition/light" alt="Kaggle Competition" />
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kakuteki/dataset/light" alt="Kaggle Dataset" />
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kakuteki/notebook/light" alt="Kaggle Notebook" />
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kakuteki/discussion/light" alt="Kaggle Discussion" />
+    <img src="kaggle-plates/Competitions.svg" alt="Kaggle Competition" />
+    <img src="kaggle-plates/Datasets.svg" alt="Kaggle Dataset" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.kaggle.com/kakuteki">
+    <img src="kaggle-plates/Notebooks.svg" alt="Kaggle Notebook" />
+    <img src="kaggle-plates/Discussions.svg" alt="Kaggle Discussion" />
   </a>
 </p>
 
