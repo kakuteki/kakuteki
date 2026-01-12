@@ -173,7 +173,7 @@ def main():
         "username": username,
         "competitions": {"tier": "Novice", "rank": "403", "medals": {"gold": 0, "silver": 0, "bronze": 0}},
         "datasets": {"tier": "Novice", "rank": None, "medals": {"gold": 0, "silver": 0, "bronze": 0}},
-        "notebooks": {"tier": "Expert", "rank": "463", "medals": {"gold": 1, "silver": 17, "bronze": 0}},
+        "notebooks": {"tier": "Expert", "rank": "463", "medals": {"gold": 0, "silver": 1, "bronze": 17}},
         "discussions": {"tier": "Novice", "rank": None, "medals": {"gold": 0, "silver": 0, "bronze": 0}},
     }
 
