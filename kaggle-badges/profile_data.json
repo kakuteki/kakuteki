@@ -2,7 +2,7 @@
   "username": "kakuteki",
   "competitions": {
     "tier": "Novice",
-    "rank": "463",
+    "rank": "403",
     "medals": {
       "gold": 0,
       "silver": 0,
@@ -19,11 +19,11 @@
     }
   },
   "notebooks": {
-    "tier": "Novice",
-    "rank": null,
+    "tier": "Expert",
+    "rank": "463",
     "medals": {
-      "gold": 0,
-      "silver": 0,
+      "gold": 1,
+      "silver": 17,
       "bronze": 0
     }
   },
