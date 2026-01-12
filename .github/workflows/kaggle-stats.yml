@@ -28,11 +28,19 @@ jobs:
           pip install playwright
           playwright install chromium
           playwright install-deps
+          sudo apt-get update
+          sudo apt-get install -y xvfb
 
-      - name: Run Kaggle scraper
+      - name: Start virtual display
+        run: |
+          Xvfb :99 -screen 0 1920x1080x24 &
+          sleep 3
+
+      - name: Run Kaggle scraper with virtual display
         run: python scripts/scrape_kaggle.py
         env:
           KAGGLE_USERNAME: kakuteki
+          DISPLAY: :99
 
       - name: Commit and push changes
         run: |
