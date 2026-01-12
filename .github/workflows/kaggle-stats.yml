@@ -4,10 +4,6 @@ on:
   schedule:
     - cron: "0 0 * * 0"  # Every Sunday at midnight UTC
   workflow_dispatch:  # Manual trigger
-  push:
-    paths:
-      - "scripts/scrape_kaggle.py"
-      - ".github/workflows/kaggle-stats.yml"
 
 env:
   KAGGLE_USERNAME: kakuteki
@@ -21,6 +17,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -42,6 +40,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git pull --rebase origin main
           git add kaggle-badges/
           if git diff --staged --quiet; then
             echo "No changes to commit"
