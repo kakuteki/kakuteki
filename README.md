@@ -16,23 +16,6 @@
 
 ---
 
-## <img src="https://www.kaggle.com/static/images/site-logo.svg" height="28" alt="Kaggle" />
-
-<p align="center">
-  <a href="https://www.kaggle.com/kakuteki">
-    <img src="kaggle-badges/competitions.svg" alt="Kaggle Competitions" />
-    <img src="kaggle-badges/datasets.svg" alt="Kaggle Datasets" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.kaggle.com/kakuteki">
-    <img src="kaggle-badges/notebooks.svg" alt="Kaggle Notebooks" />
-    <img src="kaggle-badges/discussions.svg" alt="Kaggle Discussions" />
-  </a>
-</p>
-
----
-
 ## GitHub Stats
 
 <p align="center">
@@ -76,6 +59,23 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## <img src="https://www.kaggle.com/static/images/site-logo.svg" height="28" alt="Kaggle" />
+
+<p align="center">
+  <a href="https://www.kaggle.com/kakuteki">
+    <img src="kaggle-badges/competitions.svg" alt="Kaggle Competitions" />
+    <img src="kaggle-badges/datasets.svg" alt="Kaggle Datasets" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.kaggle.com/kakuteki">
+    <img src="kaggle-badges/notebooks.svg" alt="Kaggle Notebooks" />
+    <img src="kaggle-badges/discussions.svg" alt="Kaggle Discussions" />
+  </a>
+</p>
 
 ---
 
