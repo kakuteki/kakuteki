@@ -12,8 +12,8 @@ from pathlib import Path
 PROFILE_DATA = {
     "username": "kakuteki",
     "competitions": {
-        "tier": "Contributor",
-        "rank": "403",
+        "tier": "Kaggler",
+        "rank": None,
         "medals": {"gold": 0, "silver": 0, "bronze": 0}
     },
     "datasets": {
@@ -40,6 +40,7 @@ def generate_svg(cat, tier, rank, medals):
         "Master": "#ff8c00",
         "Expert": "#9370db",
         "Contributor": "#32cd32",
+        "Kaggler": "#20beff",
         "Novice": "#20beff"
     }
     c = colors.get(tier, "#20beff")
