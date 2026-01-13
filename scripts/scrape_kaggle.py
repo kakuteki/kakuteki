@@ -12,7 +12,7 @@ from pathlib import Path
 PROFILE_DATA = {
     "username": "kakuteki",
     "competitions": {
-        "tier": "Kaggler",
+        "tier": "Novice",
         "rank": None,
         "medals": {"gold": 0, "silver": 0, "bronze": 0}
     },
