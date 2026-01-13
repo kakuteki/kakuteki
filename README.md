@@ -16,7 +16,7 @@
 
 ---
 
-## Kaggle Stats
+## <img src="https://www.kaggle.com/static/images/site-logo.svg" height="24" alt="Kaggle" /> Kaggle Stats
 
 <p align="center">
   <a href="https://www.kaggle.com/kakuteki">
