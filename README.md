@@ -12,7 +12,7 @@
 
 - Working at  RT Company, Samurai AI Inc.
 - Based in Tsudanuma, Chiba, Japan
-- Passionate about **Robotics**, **ROS2**, and **Machine Learning**
+- Passionate about Robotics, ROS2, and, Machine Learning
 
 ---
 
