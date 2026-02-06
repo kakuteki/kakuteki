@@ -1,4 +1,4 @@
-# Hi there! I'm Hinata Kaga (samon)
+# Hi,I'm Hinata Kaga (samon)
 
 **Robot Engineer & AI/ML Engineer**
 
@@ -10,7 +10,7 @@
 
 ## About Me
 
-- Working at **CIT (Chiba Institute of Technology)**, **RT Company**, **Samurai AI Inc.**
+- Working at  **RT Company**, **Samurai AI Inc.**
 - Based in Tsudanuma, Chiba, Japan
 - Passionate about **Robotics**, **ROS2**, and **Machine Learning**
 
