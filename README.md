@@ -2,8 +2,7 @@
 
 **Robot Engineer & AI/ML Engineer**
 
-[![Twitter](https://img.shields.io/badge/Twitter-@samonroof1-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/samonroof1)
-[![Website](https://img.shields.io/badge/Website-kakuteki.net-00A98F?style=flat&logo=google-chrome&logoColor=white)](http://kakuteki.net)
+[![X](https://img.shields.io/badge/X-@samonroof1-000000?style=flat&logo=x&logoColor=white)](https://x.com/samonroof1)
 [![Kaggle](https://img.shields.io/badge/Kaggle-kakuteki-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/kakuteki)
 
 ---
@@ -51,6 +50,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 
 ### Robotics & IoT
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
@@ -76,14 +76,7 @@
 
 <p align="center">
   <a href="https://www.kaggle.com/kakuteki">
-    <img src="kaggle-badges/competitions.svg" alt="Kaggle Competitions" />
-    <img src="kaggle-badges/datasets.svg" alt="Kaggle Datasets" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.kaggle.com/kakuteki">
     <img src="kaggle-badges/notebooks.svg" alt="Kaggle Notebooks" />
-    <img src="kaggle-badges/discussions.svg" alt="Kaggle Discussions" />
   </a>
 </p>
 
