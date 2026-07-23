@@ -4,6 +4,8 @@
 
 **ロボットエンジニア / AI・機械学習エンジニア**
 
+FPGA・ファームウェアから制御・学習まで、自律ロボットと実応用のMLを一気通貫で開発しています。
+
 [![X](https://img.shields.io/badge/X-@samonroof1-000000?style=flat&logo=x&logoColor=white)](https://x.com/samonroof1)
 [![Kaggle](https://img.shields.io/badge/Kaggle-kakuteki-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/kakuteki)
 
@@ -13,7 +15,7 @@
 
 - 株式会社アールティ・Samurai AI Inc. 所属
 - 千葉県津田沼在住
-- ロボティクス・ROS2・機械学習に情熱を注いでいます
+- 軸はハードウェアと機械学習の橋渡し（ロボット制御・組み込み/FPGA・表面筋電ベースのML）
 
 ---
 

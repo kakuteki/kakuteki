@@ -4,6 +4,8 @@
 
 **Robot Engineer & AI/ML Engineer**
 
+I build autonomous robots and applied ML end-to-end — from FPGA and firmware up to control and learning.
+
 [![X](https://img.shields.io/badge/X-@samonroof1-000000?style=flat&logo=x&logoColor=white)](https://x.com/samonroof1)
 [![Kaggle](https://img.shields.io/badge/Kaggle-kakuteki-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/kakuteki)
 
@@ -13,7 +15,7 @@
 
 - Working at RT Corporation and Samurai AI Inc.
 - Based in Tsudanuma, Chiba, Japan
-- Passionate about Robotics, ROS2, and Machine Learning
+- Focused on bridging hardware and machine learning: robot control, embedded / FPGA, and sEMG-based ML
 
 ---
 
