@@ -1,33 +1,33 @@
-**English** | [日本語](README.ja.md)
+[English](README.md) | **日本語**
 
-# Hi, I'm Hinata Kaga (samon)
+# 加賀 ヒナタ (samon)
 
-**Robot Engineer & AI/ML Engineer**
+**ロボットエンジニア / AI・機械学習エンジニア**
 
 [![X](https://img.shields.io/badge/X-@samonroof1-000000?style=flat&logo=x&logoColor=white)](https://x.com/samonroof1)
 [![Kaggle](https://img.shields.io/badge/Kaggle-kakuteki-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/kakuteki)
 
 ---
 
-## About Me
+## 自己紹介
 
-- Working at RT Company and Samurai AI Inc.
-- Based in Tsudanuma, Chiba, Japan
-- Passionate about Robotics, ROS2, and Machine Learning
-
----
-
-## Featured Projects
-
-- **[timing-chart](https://github.com/kakuteki/timing-chart)** (TypeScript) — Client-side web tool for drawing FPGA / embedded timing charts, built on WaveDrom.
-- **[Noir](https://github.com/kakuteki/Noir)** (CSS) — Lightweight, modular utility-first CSS framework with a dark aesthetic and no JavaScript. [Live demo](https://kakuteki.github.io/Noir/).
-- **[myo-viewer](https://github.com/kakuteki/myo-viewer)** (Python) — Real-time hand-model viewer for the Myo armband, used in surface-EMG research.
-- **[godot-debug-cli](https://github.com/kakuteki/godot-debug-cli)** (JavaScript) — Runs Godot `test_*.tscn` scenes headlessly for CI and debugging.
-- **[ContactGlobe2-python-library](https://github.com/kakuteki/ContactGlobe2-python-library)** (Python) — Python / OSC library for controlling the ContactGlobe2 device.
+- 株式会社RT / Samurai AI Inc. 所属
+- 千葉県 津田沼 在住
+- ロボティクス・ROS2・機械学習に情熱を注いでいます
 
 ---
 
-## GitHub Stats
+## 主なプロジェクト
+
+- **[timing-chart](https://github.com/kakuteki/timing-chart)** (TypeScript) — FPGA・組み込み向けのタイミングチャート作図Webツール（WaveDromベース、完全クライアントサイド）。
+- **[Noir](https://github.com/kakuteki/Noir)** (CSS) — 軽量・モジュール式のユーティリティファーストCSSフレームワーク。ダーク基調でJavaScript不要。[デモ](https://kakuteki.github.io/Noir/)。
+- **[myo-viewer](https://github.com/kakuteki/myo-viewer)** (Python) — Myoアームバンド用のリアルタイム・ハンドモデルビューア。表面筋電（sEMG）研究で使用。
+- **[godot-debug-cli](https://github.com/kakuteki/godot-debug-cli)** (JavaScript) — Godotの `test_*.tscn` シーンをヘッドレス実行するCI・デバッグ用CLI。
+- **[ContactGlobe2-python-library](https://github.com/kakuteki/ContactGlobe2-python-library)** (Python) — ContactGlobe2デバイスを制御するPython / OSCライブラリ。
+
+---
+
+## GitHub 統計
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kakuteki&theme=tokyonight" />
@@ -40,26 +40,26 @@
 
 ---
 
-## Tech Stack
+## 技術スタック
 
-### Languages
+### 言語
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 
-### Robotics & IoT
+### ロボティクス・IoT
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
-### AI / ML
+### AI・機械学習
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-### Tools & Platforms
+### ツール・基盤
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
@@ -76,15 +76,15 @@
     <img src="kaggle-badges/notebooks.svg" alt="Kaggle Notebooks" />
   </a>
 </p>
-<p align="center"><sub>Notebooks Expert — rank #463, 1 silver and 17 bronze medals</sub></p>
+<p align="center"><sub>Notebooks Expert — 世界ランク #463、銀メダル1・銅メダル17</sub></p>
 
 ---
 
-## Recently Played
+## 最近聴いた曲
 
 <p align="center">
   <a href="https://www.last.fm/user/kakuteki">
-    <img src="https://lastfm-recently-played-book000.vercel.app/api?user=kakuteki&count=5" alt="Recently played tracks on Last.fm" />
+    <img src="https://lastfm-recently-played-book000.vercel.app/api?user=kakuteki&count=5" alt="Last.fm の再生履歴" />
   </a>
 </p>
-<p align="center"><sub>Scrobbled from Spotify and SoundCloud via Last.fm.</sub></p>
+<p align="center"><sub>Last.fm 経由で Spotify と SoundCloud の再生履歴を集約しています。</sub></p>
