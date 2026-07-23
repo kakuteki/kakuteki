@@ -78,6 +78,11 @@
 
 ---
 
-## Now Playing on Spotify
+## Recently Played
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=uow1hh8wezc8rlbvbn0040d4d&count=1)](https://open.spotify.com/user/uow1hh8wezc8rlbvbn0040d4d)
+<p align="center">
+  <a href="https://www.last.fm/user/kakuteki">
+    <img src="https://lastfm-recently-played-book000.vercel.app/api?user=kakuteki&count=5" alt="Recently played tracks on Last.fm" />
+  </a>
+</p>
+<p align="center"><sub>Scrobbled from Spotify and SoundCloud via Last.fm.</sub></p>
