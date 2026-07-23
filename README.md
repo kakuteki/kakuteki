@@ -19,7 +19,7 @@
 
 ## Featured Projects
 
-- **[timing-chart](https://github.com/kakuteki/timing-chart)** (TypeScript) — Client-side web tool for drawing FPGA / embedded timing charts, built on WaveDrom.
+- **[timing-chart](https://github.com/kakuteki/timing-chart)** (TypeScript) — Client-side web tool for drawing timing charts for FPGA and embedded systems, built on WaveDrom.
 - **[Noir](https://github.com/kakuteki/Noir)** (CSS) — Lightweight, modular utility-first CSS framework with a dark aesthetic and no JavaScript. [Live demo](https://kakuteki.github.io/Noir/).
 - **[myo-viewer](https://github.com/kakuteki/myo-viewer)** (Python) — Real-time hand-model viewer for the Myo armband, used in surface-EMG research.
 - **[godot-debug-cli](https://github.com/kakuteki/godot-debug-cli)** (JavaScript) — Runs Godot `test_*.tscn` scenes headlessly for CI and debugging.
