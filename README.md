@@ -17,11 +17,11 @@
 
 ## Featured Projects
 
-- **[timing-chart](https://github.com/kakuteki/timing-chart)** — Client-side web tool for drawing FPGA / embedded timing charts, built on WaveDrom.
-- **[Noir](https://github.com/kakuteki/Noir)** ([demo](https://kakuteki.github.io/Noir/)) — Lightweight, modular utility-first CSS framework with a dark aesthetic and no JavaScript.
-- **[myo-viewer](https://github.com/kakuteki/myo-viewer)** — Real-time hand-model viewer for the Myo armband, used in surface-EMG research.
-- **[godot-debug-cli](https://github.com/kakuteki/godot-debug-cli)** — Runs Godot `test_*.tscn` scenes headlessly for CI and debugging.
-- **[ContactGlobe2-python-library](https://github.com/kakuteki/ContactGlobe2-python-library)** — Python / OSC library for controlling the ContactGlobe2 device.
+- **[timing-chart](https://github.com/kakuteki/timing-chart)** (TypeScript) — Client-side web tool for drawing FPGA / embedded timing charts, built on WaveDrom.
+- **[Noir](https://github.com/kakuteki/Noir)** (CSS) — Lightweight, modular utility-first CSS framework with a dark aesthetic and no JavaScript. [Live demo](https://kakuteki.github.io/Noir/).
+- **[myo-viewer](https://github.com/kakuteki/myo-viewer)** (Python) — Real-time hand-model viewer for the Myo armband, used in surface-EMG research.
+- **[godot-debug-cli](https://github.com/kakuteki/godot-debug-cli)** (JavaScript) — Runs Godot `test_*.tscn` scenes headlessly for CI and debugging.
+- **[ContactGlobe2-python-library](https://github.com/kakuteki/ContactGlobe2-python-library)** (Python) — Python / OSC library for controlling the ContactGlobe2 device.
 
 ---
 
