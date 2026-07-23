@@ -79,6 +79,6 @@
 
 ---
 
-## Now Playing on Spotify
+## Spotify
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=uow1hh8wezc8rlbvbn0040d4d&count=1)](https://open.spotify.com/user/uow1hh8wezc8rlbvbn0040d4d)
+[![Spotify](https://img.shields.io/badge/Spotify-Profile-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/uow1hh8wezc8rlbvbn0040d4d)
