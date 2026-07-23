@@ -32,13 +32,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kakuteki&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kakuteki&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kakuteki&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kakuteki&theme=tokyonight&utcOffset=9" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kakuteki&theme=tokyonight" />
 </p>
 
 ---
@@ -79,6 +74,7 @@
     <img src="kaggle-badges/notebooks.svg" alt="Kaggle Notebooks" />
   </a>
 </p>
+<p align="center"><sub>Notebooks Expert — rank #463, 1 silver and 17 bronze medals</sub></p>
 
 ---
 

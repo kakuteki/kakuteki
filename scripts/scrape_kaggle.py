@@ -9,27 +9,13 @@ import json
 from pathlib import Path
 
 # Manual configuration - update these values when your stats change
+# Only the categories listed here are rendered as badges.
 PROFILE_DATA = {
     "username": "kakuteki",
-    "competitions": {
-        "tier": "Novice",
-        "rank": None,
-        "medals": {"gold": 0, "silver": 0, "bronze": 0}
-    },
-    "datasets": {
-        "tier": "Novice",
-        "rank": None,
-        "medals": {"gold": 0, "silver": 0, "bronze": 0}
-    },
     "notebooks": {
         "tier": "Expert",
         "rank": "463",
         "medals": {"gold": 0, "silver": 1, "bronze": 17}
-    },
-    "discussions": {
-        "tier": "Novice",
-        "rank": None,
-        "medals": {"gold": 0, "silver": 0, "bronze": 0}
     },
 }
 
@@ -95,7 +81,7 @@ def main():
     
     print(json.dumps(PROFILE_DATA, indent=2))
     
-    for cat in ["competitions", "datasets", "notebooks", "discussions"]:
+    for cat in [c for c in PROFILE_DATA if c != "username"]:
         d = PROFILE_DATA[cat]
         svg = generate_svg(cat, d["tier"], d["rank"], d["medals"])
         with open(out / f"{cat}.svg", "w") as f:
