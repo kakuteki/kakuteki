@@ -1,4 +1,4 @@
-# Hi,I'm Hinata Kaga (samon)
+# Hi, I'm Hinata Kaga (samon)
 
 **Robot Engineer & AI/ML Engineer**
 
@@ -10,9 +10,19 @@
 
 ## About Me
 
-- Working at  RT Company, Samurai AI Inc.
+- Working at RT Company, Samurai AI Inc.
 - Based in Tsudanuma, Chiba, Japan
-- Passionate about Robotics, ROS2, and, Machine Learning
+- Passionate about Robotics, ROS2, and Machine Learning
+
+---
+
+## Featured Projects
+
+- **[timing-chart](https://github.com/kakuteki/timing-chart)** — Client-side web tool for drawing FPGA / embedded timing charts, built on WaveDrom.
+- **[Noir](https://github.com/kakuteki/Noir)** ([demo](https://kakuteki.github.io/Noir/)) — Lightweight, modular utility-first CSS framework with a dark aesthetic and no JavaScript.
+- **[myo-viewer](https://github.com/kakuteki/myo-viewer)** — Real-time hand-model viewer for the Myo armband, used in surface-EMG research.
+- **[godot-debug-cli](https://github.com/kakuteki/godot-debug-cli)** — Runs Godot `test_*.tscn` scenes headlessly for CI and debugging.
+- **[ContactGlobe2-python-library](https://github.com/kakuteki/ContactGlobe2-python-library)** — Python / OSC library for controlling the ContactGlobe2 device.
 
 ---
 
